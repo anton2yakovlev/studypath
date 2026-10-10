@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "coursera": {
+      "type": "http",
+      "url": "https://api.coursera.com/mcp"
+    },
+    "udemy-business": {
+      "type": "http",
+      "url": "https://api.udemy.com/mcp"
+    },
+    "oreilly": {
+      "type": "http",
+      "url": "https://api.oreilly.com/api/content-discovery/v1/mcp/"
+    },
+    "kuliko": {
+      "type": "http",
+      "url": "https://mcp.kuliko.ai/mcp"
+    },
+    "google-calendar": {
+      "type": "http",
+      "url": "https://calendarmcp.googleapis.com/mcp/v1"
+    },
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    }
+  }
+}
