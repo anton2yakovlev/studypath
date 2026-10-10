@@ -1,11 +1,13 @@
 {
   "name": "studypath",
   "displayName": "StudyPath",
-  "version": "0.1.0",
-  "description": "Turn any topic into a time-boxed learning path from real lessons: searches Coursera, Udemy Business and O'Reilly through their connectors, vets each source, adds practice and checkpoints, then (on request) creates flashcards in Kuliko, schedules sessions in Google Calendar and exports the plan to Notion or Todoist.",
+  "version": "0.1.1",
+  "description": "Turn any topic into a time-boxed learning path from real lessons: searches Coursera, Udemy Business and O'Reilly through their connectors, vets each source, adds practice and checkpoints, then (on request) creates flashcards in Kuliko, schedules sessions in Google Calendar and exports the plan to Notion.",
   "author": {
     "name": "Anton Iakovlev",
     "url": "https://github.com/anton2yakovlev"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/anton2yakovlev/studypath/blob/main/PRIVACY.md"
 }
